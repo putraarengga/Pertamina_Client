@@ -1,0 +1,11 @@
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\bin\Debug\PLTD.exe.config
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\bin\Debug\PLTD.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\bin\Debug\PLTD.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\bin\Debug\PLTD.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.Frm_Main.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.Resources.resources
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.vbproj.GenerateResource.Cache
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.exe
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.xml
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.pdb
+C:\Users\Putra\Documents\Visual Studio 2012\Projects\PLTD\Pertamina\obj\Debug\PLTD.Form2.resources
